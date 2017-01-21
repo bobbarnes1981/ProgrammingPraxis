@@ -1,0 +1,3 @@
+﻿This is my test input file, it has some data in it and will hoefully test file encryption.
+
+yay!
